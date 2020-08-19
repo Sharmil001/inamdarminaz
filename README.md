@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hey, nice to see you.</h1>
 
 <a href="https://www.linkedin.com/in/inamdarminaz/">
   <img align="left" alt="Minaz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter developer from India. Interested in making life easier by creating utility tools. Fascinated about cosmos.
+Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter developer from India. Interested in making life easier by creating complicated things simplistic. Fascinated about cosmos.
 
 <br/>
 
@@ -22,13 +22,14 @@ Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter de
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on my MERN stack projects;
+- 🖱 I’m currently working on my MERN stack projects;
 - 🌱 I’m currently learning React and Typescript;
-- 👩🏻‍💻 I’m looking to collaborate on kick ass products;
+- 👩🏻‍💻 I’m looking to collaborate on kick ass projects;
 - 💬 Ask me about anything, I am happy to help;
 - 👩🏻‍🚀 SpaceX fan girl;
-- 🎮 Weeb and facinated about XR;
-- ⚡️ Fun-Fact: Everyone has their own IF/THEN conditional programming, a situation where if certain conditions are met, then a logic bomb detonates. Everything blows up in your face;
+- ☕️ Coffee keeps me functioning;
+- 🎮 Weeb and fascinated about XR;
+- 🤖 Mr. Robot: Everyone has their own IF/THEN conditional programming, a situation where if certain conditions are met, then a logic bomb detonates. Everything blows up in your face;
 - 📫 How to reach me: [i2inamdarminaz@gmail.com](mailto:i2inamdarminaz@gmail.com);
 - 🔗 My Portfolio: [https://inamdarminaz.netlify.app/](https://inamdarminaz.netlify.app/)
 
