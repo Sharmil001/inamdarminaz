@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm [Minaz Inamdar](https://www.inamdarminaz.netlify.app/), a web and flutter developer from India. Interested in making life easier by creating utility tools. Fascinated about cosmos.
+Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter developer from India. Interested in making life easier by creating utility tools. Fascinated about cosmos.
 
 <br/>
 
@@ -30,7 +30,7 @@ Hi, I'm [Minaz Inamdar](https://www.inamdarminaz.netlify.app/), a web and flutte
 - 🎮 Weeb and facinated about XR;
 - ⚡️ Fun-Fact: Everyone has their own IF/THEN conditional programming, a situation where if certain conditions are met, then a logic bomb detonates. Everything blows up in your face;
 - 📫 How to reach me: [i2inamdarminaz@gmail.com](mailto:i2inamdarminaz@gmail.com);
-- 🔗 My Portfolio: [https://www.inamdarminaz.netlify.app/](https://www.inamdarminaz.netlify.app/)
+- 🔗 My Portfolio: [https://inamdarminaz.netlify.app/](https://inamdarminaz.netlify.app/)
 
 **Languages and Tools:**
 
