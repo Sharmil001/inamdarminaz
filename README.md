@@ -20,7 +20,7 @@ Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter de
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="350" width="400" alt="GIF" src="https://1.bp.blogspot.com/-weXYbAPbjOI/WN5gicBTyDI/AAAAAAAGr0k/9Yb0ZhlqTAYdkQVTQKtXWodnNPGWsIzQACLcB/s1600/AW400862_14.gif" />
 
-**👩🏻‍🎓 Talking about Personal Stuff:**
+**Talking about Personal Stuff:**
 
 - 🖱 I’m currently working on my MERN stack projects;
 - 🌱 I’m currently learning React and Typescript;
