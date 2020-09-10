@@ -18,7 +18,7 @@ Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter de
 <br/>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<img align="right" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+<img align="right" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/giphy.gif" />
 
 **Talking about Personal Stuff:**
 
