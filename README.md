@@ -25,7 +25,6 @@ Hi, I'm [Minaz Inamdar](https://inamdarminaz.netlify.app/), a web and flutter de
 
 - 🖱 I’m currently working on my MERN stack projects;
 - 🌱 I’m currently learning Node.js;
-- 👩🏻‍💻 I’m looking to collaborate on kick ass projects;
 - 💬 Ask me about anything, I am happy to help;
 - 👩🏻‍🚀 SpaceX fan girl;
 - ☕️ Coffee keeps me functioning;
